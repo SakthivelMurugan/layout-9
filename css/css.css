@@ -1,0 +1,111 @@
+.one
+{
+	display:flex;
+	border:2px solid black;
+	margin:400px;
+	margin-top:5px;
+	margin-bottom:5px;
+	flex-direction:column;
+}
+.one .split1
+{
+	display:flex;
+	flex-direction:row;
+	background-color:black;
+}
+.one .split1 .bb
+{
+	height:20px;
+	width:50px;
+	background-color:white;
+	margin:5px;
+	margin-left:10px;
+}
+.one .split1 .eb1
+{
+	height:20px;
+	width:50px;
+	background-color:white;
+	margin:5px;
+	margin-left:250px;
+}
+.one .split1 .eb
+{
+	height:20px;
+	width:50px;
+	background-color:white;
+	margin:5px;
+}
+.one .split2 
+{
+	display:flex;
+	flex-direction:column;
+	background-color:blue;
+}
+.one .split2 .dark
+{
+	height:30px;
+	width:100px;
+	background-color:white;
+	margin:5px;
+	margin-left:220px;
+}
+.one .split2 .text
+{
+	height:20px;
+	width:150px;
+	background-color:white;
+	margin:5px;
+	margin-left:190px;
+}
+.one .split2 .b
+{
+	height:20px;
+	width:70px;
+	background-color:white;
+	margin:5px;
+	margin-left:235px;
+}
+.two
+{
+	display:flex;
+	border:2px solid black;
+	margin:400px;
+	margin-top:5px;
+	margin-bottom:5px;
+	flex-direction:column;
+}
+.two .split1
+{
+	display:flex;
+	flex-direction:column;
+}
+.two .split1 .dark
+{
+	height:20px;
+	width:100px;
+	background-color:gray;
+	margin:5px;
+	margin-left:230px;
+}
+.two .split1 .text
+{
+	height:50px;
+	width:80px;
+	background-color:brown;
+	margin:5px;
+	margin-left:240px;
+}
+.two .split2 
+{
+	display:flex;
+	justify-content:center;
+	background-color:black;
+}
+.two .split2 .text
+{
+	height:20px;
+	width:80px;
+	background-color:orange;
+	margin:5px;
+}
