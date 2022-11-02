@@ -47,24 +47,27 @@
 	height:30px;
 	width:100px;
 	background-color:white;
-	margin:5px;
-	margin-left:220px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .one .split2 .text
 {
 	height:20px;
 	width:150px;
 	background-color:white;
-	margin:5px;
-	margin-left:190px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .one .split2 .b
 {
 	height:20px;
 	width:70px;
 	background-color:white;
-	margin:5px;
-	margin-left:235px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .two
 {
@@ -85,16 +88,18 @@
 	height:20px;
 	width:100px;
 	background-color:gray;
-	margin:5px;
-	margin-left:230px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .two .split1 .text
 {
 	height:50px;
 	width:80px;
 	background-color:brown;
-	margin:5px;
-	margin-left:240px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .two .split2 
 {
